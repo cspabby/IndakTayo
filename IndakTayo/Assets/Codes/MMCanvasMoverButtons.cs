@@ -44,7 +44,7 @@ public class MMCanvasMoverButtons : MonoBehaviour
     {
           // Decrement the index and ensure it loops back to the end
         currentIndex = (currentIndex - 1 + objectsToMove.Length) % objectsToMove.Length;
-        MoveObjects();
+        MoveObjects(); // Move objects based on the new index
     }
 }
     
