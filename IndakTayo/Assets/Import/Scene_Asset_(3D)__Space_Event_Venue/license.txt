@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scene Asset (3D): Space Event Venue
+* source:	https://sketchfab.com/3d-models/scene-asset-3d-space-event-venue-d450128a187c4c8ca72de4e06dc75daf
+* author:	Nyabsino KMM (https://sketchfab.com/nyabsino)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scene Asset (3D): Space Event Venue" (https://sketchfab.com/3d-models/scene-asset-3d-space-event-venue-d450128a187c4c8ca72de4e06dc75daf) by Nyabsino KMM (https://sketchfab.com/nyabsino) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

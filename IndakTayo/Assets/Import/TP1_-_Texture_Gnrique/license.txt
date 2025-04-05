@@ -1,0 +1,11 @@
+Model Information:
+* title:	TP1 - Texture Générique
+* source:	https://sketchfab.com/3d-models/tp1-texture-generique-19fa49fea701499b8a7f380ded08661d
+* author:	Gabrielle Côté (https://sketchfab.com/gabriellec)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TP1 - Texture Générique" (https://sketchfab.com/3d-models/tp1-texture-generique-19fa49fea701499b8a7f380ded08661d) by Gabrielle Côté (https://sketchfab.com/gabriellec) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

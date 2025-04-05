@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wall mirror, mirror, espejo de pared
+* source:	https://sketchfab.com/3d-models/wall-mirror-mirror-espejo-de-pared-2d87753ee2744e6d8fbf31f23cfd81ff
+* author:	ocelotlmx (https://sketchfab.com/ocelotlmx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wall mirror, mirror, espejo de pared" (https://sketchfab.com/3d-models/wall-mirror-mirror-espejo-de-pared-2d87753ee2744e6d8fbf31f23cfd81ff) by ocelotlmx (https://sketchfab.com/ocelotlmx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

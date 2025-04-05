@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rabbid
+* source:	https://sketchfab.com/3d-models/rabbid-10ccea82b15241eb9375068b945fd857
+* author:	pereiraandrei889 (https://sketchfab.com/pereiraandrei88)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rabbid" (https://sketchfab.com/3d-models/rabbid-10ccea82b15241eb9375068b945fd857) by pereiraandrei889 (https://sketchfab.com/pereiraandrei88) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

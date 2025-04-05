@@ -1,0 +1,11 @@
+Model Information:
+* title:	Product Design (3D): Drum Set
+* source:	https://sketchfab.com/3d-models/product-design-3d-drum-set-a6fd856fda974b0e8d32be79c110b25a
+* author:	Nyabsino KMM (https://sketchfab.com/nyabsino)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Product Design (3D): Drum Set" (https://sketchfab.com/3d-models/product-design-3d-drum-set-a6fd856fda974b0e8d32be79c110b25a) by Nyabsino KMM (https://sketchfab.com/nyabsino) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

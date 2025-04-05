@@ -1,0 +1,11 @@
+Model Information:
+* title:	Residences of Rothenburg ob der Tauber
+* source:	https://sketchfab.com/3d-models/residences-of-rothenburg-ob-der-tauber-af81933914b14dcbbb39bd8a0bbafaaf
+* author:	Shotkey (https://sketchfab.com/shotkey)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Residences of Rothenburg ob der Tauber" (https://sketchfab.com/3d-models/residences-of-rothenburg-ob-der-tauber-af81933914b14dcbbb39bd8a0bbafaaf) by Shotkey (https://sketchfab.com/shotkey) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

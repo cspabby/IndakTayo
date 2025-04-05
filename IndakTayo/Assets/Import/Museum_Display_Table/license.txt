@@ -1,0 +1,11 @@
+Model Information:
+* title:	Museum Display Table
+* source:	https://sketchfab.com/3d-models/museum-display-table-7019a89d5b85456ba41156c46ca302bf
+* author:	Charlotte Kimberly Andreassen (https://sketchfab.com/charlottekimberly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Museum Display Table" (https://sketchfab.com/3d-models/museum-display-table-7019a89d5b85456ba41156c46ca302bf) by Charlotte Kimberly Andreassen (https://sketchfab.com/charlottekimberly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nubian Wig
+* source:	https://sketchfab.com/3d-models/nubian-wig-cdc2aa02d18f40cd9fbbe2762554520f
+* author:	shimtimultimedia (https://sketchfab.com/shimtimultimedia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nubian Wig" (https://sketchfab.com/3d-models/nubian-wig-cdc2aa02d18f40cd9fbbe2762554520f) by shimtimultimedia (https://sketchfab.com/shimtimultimedia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

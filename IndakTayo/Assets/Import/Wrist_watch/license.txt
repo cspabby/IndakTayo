@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wrist watch
+* source:	https://sketchfab.com/3d-models/wrist-watch-08b82f8e87294de4b32b26b143d7a1fd
+* author:	mettukishor (https://sketchfab.com/mettukishor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wrist watch" (https://sketchfab.com/3d-models/wrist-watch-08b82f8e87294de4b32b26b143d7a1fd) by mettukishor (https://sketchfab.com/mettukishor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

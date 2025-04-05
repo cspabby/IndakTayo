@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ruin_house_2
+* source:	https://sketchfab.com/3d-models/ruin-house-2-d13300fe8fed4b3893dca329e7167578
+* author:	BroSible (https://sketchfab.com/BroSible)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ruin_house_2" (https://sketchfab.com/3d-models/ruin-house-2-d13300fe8fed4b3893dca329e7167578) by BroSible (https://sketchfab.com/BroSible) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

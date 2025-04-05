@@ -1,0 +1,8 @@
+Model Information:
+* title:	Old Brick House
+* source:	https://sketchfab.com/3d-models/old-brick-house-478ea1e5a74d424cb0f210a327432655
+* author:	Sainz317 (https://sketchfab.com/itssenn7)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

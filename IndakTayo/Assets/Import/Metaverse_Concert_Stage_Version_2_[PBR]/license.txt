@@ -1,0 +1,11 @@
+Model Information:
+* title:	Metaverse Concert Stage Version 2 [PBR]
+* source:	https://sketchfab.com/3d-models/metaverse-concert-stage-version-2-pbr-39f8035bf95141be819f8252f9143873
+* author:	AGUNG.IHACKSTUFF@GMAIL.COM (https://sketchfab.com/agung.ihackstuff)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Metaverse Concert Stage Version 2 [PBR]" (https://sketchfab.com/3d-models/metaverse-concert-stage-version-2-pbr-39f8035bf95141be819f8252f9143873) by AGUNG.IHACKSTUFF@GMAIL.COM (https://sketchfab.com/agung.ihackstuff) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

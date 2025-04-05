@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tambourine
+* source:	https://sketchfab.com/3d-models/tambourine-c0dd07bac757481f8d29404b001c482c
+* author:	arjunpramod1 (https://sketchfab.com/arjunpramod1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tambourine" (https://sketchfab.com/3d-models/tambourine-c0dd07bac757481f8d29404b001c482c) by arjunpramod1 (https://sketchfab.com/arjunpramod1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

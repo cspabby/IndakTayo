@@ -1,0 +1,8 @@
+Model Information:
+* title:	Wooden Artist Mannequin
+* source:	https://sketchfab.com/3d-models/wooden-artist-mannequin-be47b21c2e8f4a0f975e89a9c50a4aa5
+* author:	Smoggybeard (https://sketchfab.com/Smoggybeard)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sekiranun Grafiti stage (Project DIVA Extend
+* source:	https://sketchfab.com/3d-models/sekiranun-grafiti-stage-project-diva-extend-1fb1378bd9b04d2db3da65e29e2d584a
+* author:	雨宮レン (https://sketchfab.com/oscar3dmodel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sekiranun Grafiti stage (Project DIVA Extend" (https://sketchfab.com/3d-models/sekiranun-grafiti-stage-project-diva-extend-1fb1378bd9b04d2db3da65e29e2d584a) by 雨宮レン (https://sketchfab.com/oscar3dmodel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

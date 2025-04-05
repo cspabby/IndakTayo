@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skybox Sci Fi Sky Spaceship
+* source:	https://sketchfab.com/3d-models/skybox-sci-fi-sky-spaceship-a65cda43e4904ca285281420cfff2e0a
+* author:	skybox3dArchitect (https://sketchfab.com/skybox3dArchitect)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skybox Sci Fi Sky Spaceship" (https://sketchfab.com/3d-models/skybox-sci-fi-sky-spaceship-a65cda43e4904ca285281420cfff2e0a) by skybox3dArchitect (https://sketchfab.com/skybox3dArchitect) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
