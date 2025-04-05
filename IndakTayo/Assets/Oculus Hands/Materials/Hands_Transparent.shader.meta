@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6c8d279e34661b4b937eb21d348acfa
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration (Deprecated)
+  packageVersion: 57.0.2-deprecated
+  assetPath: Assets/Oculus Hands/Materials/Hands_Transparent.shader
+  uploadId: 667590
