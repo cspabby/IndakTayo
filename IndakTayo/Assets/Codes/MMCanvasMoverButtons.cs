@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
+/// This script controls the visibility of multiple UI objects
+/// by activating only one at a time using increment/decrement buttons.
 public class MMCanvasMoverButtons : MonoBehaviour
 {
     public GameObject[] objectsToMove;
