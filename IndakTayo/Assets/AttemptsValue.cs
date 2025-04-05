@@ -21,7 +21,7 @@ public class AttemptsValue : MonoBehaviour
 
         attempts.text = attemptsToPass.ToString();
     }
-
+    // Setter for attempts
     public void SetNumberOfAttempts()
     {
         int attemptsToPass = PlayerPrefs.GetInt("attempts");
