@@ -42,6 +42,7 @@ public class MMCanvasMoverButtons : MonoBehaviour
     // Method to decrement the index and move objects to the left
     public void DecrementIndex()
     {
+          // Decrement the index and ensure it loops back to the end
         currentIndex = (currentIndex - 1 + objectsToMove.Length) % objectsToMove.Length;
         MoveObjects();
     }
