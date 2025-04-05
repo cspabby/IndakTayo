@@ -34,6 +34,7 @@ public class AttemptsValue : MonoBehaviour
         }
     }
 
+    // To reset the attempts to Zero
     public void ResetAttempts()
     {
         PlayerPrefs.SetInt("attempts", 0);
