@@ -9,6 +9,7 @@ public class AttemptsValue : MonoBehaviour
 
     void Update()
     {
+        // getting the value of attempts
         int attemptsToPass = PlayerPrefs.GetInt("attempts");
 
         if (attemptsToPass > 3)
