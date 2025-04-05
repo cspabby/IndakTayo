@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alchemist carpet
+* source:	https://sketchfab.com/3d-models/alchemist-carpet-1a3ca090f6874c4391048716f2582cb5
+* author:	Jopii (https://sketchfab.com/jopii)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alchemist carpet" (https://sketchfab.com/3d-models/alchemist-carpet-1a3ca090f6874c4391048716f2582cb5) by Jopii (https://sketchfab.com/jopii) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

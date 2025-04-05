@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coe Hall Living Room Test
+* source:	https://sketchfab.com/3d-models/coe-hall-living-room-test-f9eb018ba5f94b268ce2bc80359afbc4
+* author:	Scott Harrigan (https://sketchfab.com/scott_harrigan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coe Hall Living Room Test" (https://sketchfab.com/3d-models/coe-hall-living-room-test-f9eb018ba5f94b268ce2bc80359afbc4) by Scott Harrigan (https://sketchfab.com/scott_harrigan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

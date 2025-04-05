@@ -1,0 +1,11 @@
+Model Information:
+* title:	Disco Ball test
+* source:	https://sketchfab.com/3d-models/disco-ball-test-ed01d7c4c95e4030b4aaa2705e9ca233
+* author:	rhgrafix (https://sketchfab.com/rhgrafix)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Disco Ball test" (https://sketchfab.com/3d-models/disco-ball-test-ed01d7c4c95e4030b4aaa2705e9ca233) by rhgrafix (https://sketchfab.com/rhgrafix) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

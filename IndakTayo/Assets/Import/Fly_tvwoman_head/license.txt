@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fly tvwoman head
+* source:	https://sketchfab.com/3d-models/fly-tvwoman-head-e21a6c5101a5413fbdff8e99db2245a9
+* author:	maksimeh (https://sketchfab.com/o684061997)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fly tvwoman head" (https://sketchfab.com/3d-models/fly-tvwoman-head-e21a6c5101a5413fbdff8e99db2245a9) by maksimeh (https://sketchfab.com/o684061997) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Disco Gummy Bear
+* source:	https://sketchfab.com/3d-models/disco-gummy-bear-fec5d5b0bd954231ba5a6f4b230f79e6
+* author:	Victoria Billings (https://sketchfab.com/vbilling1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Disco Gummy Bear" (https://sketchfab.com/3d-models/disco-gummy-bear-fec5d5b0bd954231ba5a6f4b230f79e6) by Victoria Billings (https://sketchfab.com/vbilling1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

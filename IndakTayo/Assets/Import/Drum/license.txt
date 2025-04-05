@@ -1,0 +1,11 @@
+Model Information:
+* title:	Drum
+* source:	https://sketchfab.com/3d-models/drum-3e6004858508416293b536efaa2cbedc
+* author:	Second Studio (https://sketchfab.com/kayaaku)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Drum" (https://sketchfab.com/3d-models/drum-3e6004858508416293b536efaa2cbedc) by Second Studio (https://sketchfab.com/kayaaku) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
