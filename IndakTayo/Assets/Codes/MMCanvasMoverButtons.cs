@@ -11,7 +11,7 @@ public class MMCanvasMoverButtons : MonoBehaviour
     public GameObject[] objectsToMove; // Array of UI objects (canvases or panels) to switch between
     public int currentIndex = 0; // Index of the currently active object
     private int previousIndex = 0; // Track the previously active index to turn it off later
-    public GameObject incrementButton;
+    public GameObject incrementButton; // Button used to increment the index (move right)
     public GameObject decrementButton;
 
     // Start is called before the first frame update
