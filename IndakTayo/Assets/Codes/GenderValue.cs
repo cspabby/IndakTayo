@@ -9,7 +9,7 @@ public class GenderValue : MonoBehaviour
 
     void Update()
     {
-        // Update the GenderText with the current gender from StartDance
+        // Update the GenderText with the current gender from StartDancee
         GenderText.text = StartDance.GetGender();
     }
 }
