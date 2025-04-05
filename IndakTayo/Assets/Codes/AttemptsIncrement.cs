@@ -12,7 +12,7 @@ public class AttemptsIncrement : MonoBehaviour
         attempts.SetNumberOfAttempts();
     }
 
-    // Update is called once per framesss
+    // Update is called once per framesssss
     void Update()
     {
         
