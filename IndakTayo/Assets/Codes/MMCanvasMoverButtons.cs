@@ -7,7 +7,8 @@ using UnityEngine;
 /// by activating only one at a time using increment/decrement buttons.
 public class MMCanvasMoverButtons : MonoBehaviour
 {
-    public GameObject[] objectsToMove;
+
+    public GameObject[] objectsToMove; // Array of UI objects (canvases or panels) to switch between
     public int currentIndex = 0;
     private int previousIndex = 0; // Track the previous index
     public GameObject incrementButton;
