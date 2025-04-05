@@ -5,7 +5,7 @@ using TMPro;
 
 public class GenderValue : MonoBehaviour
 {
-    public TextMeshProUGUI GenderText; 
+    public TextMeshProUGUI GenderText; //assign the inspector
 
     void Update()
     {
