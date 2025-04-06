@@ -18,7 +18,7 @@ public class proceedDanceHTP : MonoBehaviour
 
         }
     }
-
+    // Check if all TextMeshPro elements are colored green
     bool AllTextIsGreen()
     {
         foreach (GameObject obj in objectsToMonitor)
