@@ -60,7 +60,7 @@ public class GotoJotabal : MonoBehaviour
         // Allow the scene to be activated
         asyncLoad.allowSceneActivation = true;
 
-        // Wait for the scene to finish loading
+        // while code to load
         while (!asyncLoad.isDone)
         {
             yield return null;
