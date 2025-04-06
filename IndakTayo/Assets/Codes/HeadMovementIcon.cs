@@ -7,9 +7,9 @@ public class HeadMovementIcon : MonoBehaviour
     public GameObject checkIcon;
     public GameObject uncheckIcon;
 
-    private void Start()
+    private void Start() 
     {
-        // By default, set the check icon to be visible and the uncheck icon to be hidden
+        
         SetCheckIconVisible(false);
         SetUncheckIconVisible(true);
     }
