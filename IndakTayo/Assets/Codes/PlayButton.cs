@@ -33,7 +33,7 @@ public class PlayButton : MonoBehaviour
         isPlaying = false;
         buttonText.text = "START";
 
-        // Subscribe to the loopPointReached event
+        // Subscribe to the video loop point event
         videoPlayer.loopPointReached += OnVideoEnd;
         checkIcon.SetActive(false);
     }
