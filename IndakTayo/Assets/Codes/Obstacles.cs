@@ -19,6 +19,7 @@ public class Obstacles : MonoBehaviour
          // Check if there was no prior collision and the collided object is one of the specified ones
         if (!hasCollided && (other.gameObject == Head || other.gameObject == Right || other.gameObject == Left))
         {
+            // Decrease points by 1 upon collision
             points.DecrementPoints(1);
             ObstacleSounds.Play();
             hasCollided = true;
