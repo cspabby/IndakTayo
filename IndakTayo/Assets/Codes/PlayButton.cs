@@ -9,7 +9,7 @@ using UnityEngine.Video;
 
 public class PlayButton : MonoBehaviour
 {
-    public GameObject button;
+    public GameObject button;  // Reference to the button GameObject
     public UnityEvent onPress;
     public UnityEvent onRelease;
     public TextMeshProUGUI buttonText;
