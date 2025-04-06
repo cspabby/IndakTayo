@@ -37,7 +37,7 @@ public class PlayButton : MonoBehaviour
         videoPlayer.loopPointReached += OnVideoEnd;
         checkIcon.SetActive(false);
     }
-    
+
     // Triggered when button is pressed
     private void OnTriggerEnter(Collider other)
     {
@@ -48,7 +48,8 @@ public class PlayButton : MonoBehaviour
             StartCoroutine(DelayButtonPress());
         }
     }
-
+    
+    // Prevent multiple presses by adding a delay
     private IEnumerator DelayButtonPress()
     {
         canPressButton = false;
