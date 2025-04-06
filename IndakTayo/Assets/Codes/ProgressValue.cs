@@ -4,7 +4,7 @@ using UnityEngine;
 using TMPro;
 public class ProgressValue : MonoBehaviour
 {
-    public TextMeshProUGUI progress;
+    public TextMeshProUGUI progress; // Text element to display progress value
     public TaskPercentage task;
     // Start is called before the first frame update
     void Start()
