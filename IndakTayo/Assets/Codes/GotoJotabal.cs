@@ -66,7 +66,7 @@ public class GotoJotabal : MonoBehaviour
             yield return null;
         }
 
-        // Deactivate the loading screen after the scene is loaded
+        
         loadingScreen.SetActive(false);
     }
 }
