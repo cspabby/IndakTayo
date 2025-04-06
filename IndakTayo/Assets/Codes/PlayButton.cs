@@ -62,7 +62,7 @@ public class PlayButton : MonoBehaviour
         if (!isPlaying)
         {
             onPress.Invoke(); // Trigger the onPress event
-            sound.Play();
+            sound.Play(); // Play sound
             StartCanvasVideo(); // Start the video
             isPlaying = true;
             buttonText.text = "STOP";
