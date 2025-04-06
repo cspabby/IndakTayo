@@ -26,7 +26,7 @@ public class proceedDanceHTP : MonoBehaviour
             TextMeshProUGUI textMesh = obj.GetComponent<TextMeshProUGUI>();
             if (textMesh == null || textMesh.color != Color.green)
             {
-                TurnOnCollider.enabled = false;
+                TurnOnCollider.enabled = false; // Prevent proceeding if any text isn't green
                 return false;
             }
         }
