@@ -77,6 +77,7 @@ public class PlayButton : MonoBehaviour
         }
     }
 
+     // Starts the video playback and displays the video canvas
     public void StartCanvasVideo()
     {
         videoCanvas.gameObject.SetActive(true);
