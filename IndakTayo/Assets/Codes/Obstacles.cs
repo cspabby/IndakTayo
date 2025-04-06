@@ -16,6 +16,7 @@ public class Obstacles : MonoBehaviour
     // Trigger method for detecting collision with specific objects (Head, Right, or Left)
     private void OnTriggerEnter(Collider other)
     {
+         // Check if there was no prior collision and the collided object is one of the specified ones
         if (!hasCollided && (other.gameObject == Head || other.gameObject == Right || other.gameObject == Left))
         {
             points.DecrementPoints(1);
