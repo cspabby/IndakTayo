@@ -18,7 +18,7 @@ public class PlayButton : MonoBehaviour
     AudioSource sound;  // Audio source for sound effects
     bool isPlaying;  // Flags for video playback and button interaction
     bool canPressButton = true;  // Flags for video playback and button interaction
-    public float delayDuration = 1f; // Adjust this value as needed
+    public float delayDuration = 1f;  // Delay duration before button can be pressed again
     public TextMeshProUGUI textComponent;
     public GameObject checkIcon;
 
