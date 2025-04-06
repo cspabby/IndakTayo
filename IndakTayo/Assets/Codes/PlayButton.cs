@@ -16,8 +16,8 @@ public class PlayButton : MonoBehaviour
     public MeshRenderer videoCanvas;  // UI components for the button and video display
     public VideoPlayer videoPlayer;  // UI components for the button and video display
     AudioSource sound;  // Audio source for sound effects
-    bool isPlaying;
-    bool canPressButton = true;
+    bool isPlaying;  // Flags for video playback and button interaction
+    bool canPressButton = true;  // Flags for video playback and button interaction
     public float delayDuration = 1f; // Adjust this value as needed
     public TextMeshProUGUI textComponent;
     public GameObject checkIcon;
