@@ -6,7 +6,7 @@ using TMPro;
 public class proceedDanceHTP : MonoBehaviour
 {
     public GameObject[] objectsToMonitor; // List of UI text objects to monitor
-    public BoxCollider TurnOnCollider;
+    public BoxCollider TurnOnCollider; // Collider to enable when all texts turn green
     public GameObject TurnOnDanceCanvas;
     void Update()
     {
