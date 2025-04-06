@@ -11,7 +11,7 @@ public class ShowDuckHTP : MonoBehaviour
     //script for duck
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player")) //player indicator
         {
 
             ShowDancePass.ShowDanceDuck(other);
