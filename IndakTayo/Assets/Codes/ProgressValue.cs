@@ -10,6 +10,7 @@ public class ProgressValue : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // Initialization if needed
 
     }
 
