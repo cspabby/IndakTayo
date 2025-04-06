@@ -9,7 +9,7 @@ public class Obstacles : MonoBehaviour
     public GameObject Right;
     public GameObject Left;
     public AudioSource ObstacleSounds; // Sound played upon collision with the obstacle
-    public TotalPoints points;
+    public TotalPoints points;  // Reference to the points manager
 
     private bool hasCollided = false;
 
