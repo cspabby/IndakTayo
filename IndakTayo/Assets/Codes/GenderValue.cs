@@ -7,6 +7,8 @@ public class GenderValue : MonoBehaviour
 {
     public TextMeshProUGUI GenderText; //assign the inspector
 
+
+
     void Update()
     {
         // Update the GenderText with the current gender from StartDancee
