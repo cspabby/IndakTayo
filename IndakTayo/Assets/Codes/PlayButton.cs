@@ -61,7 +61,7 @@ public class PlayButton : MonoBehaviour
     {
         if (!isPlaying)
         {
-            onPress.Invoke();
+            onPress.Invoke(); // Trigger the onPress event
             sound.Play();
             StartCanvasVideo(); // Start the video
             isPlaying = true;
