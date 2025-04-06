@@ -35,7 +35,7 @@ public class GotoJotabal : MonoBehaviour
 
         AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(sceneName);
 
-        asyncLoad.allowSceneActivation = false; //scene will not load 
+        asyncLoad.allowSceneActivation = false; // change true to load scene
 
         while (progress < 1f)
         {
