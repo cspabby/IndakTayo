@@ -7,7 +7,7 @@ public class proceedDanceHTP : MonoBehaviour
 {
     public GameObject[] objectsToMonitor; // List of UI text objects to monitor
     public BoxCollider TurnOnCollider; // Collider to enable when all texts turn green
-    public GameObject TurnOnDanceCanvas;
+    public GameObject TurnOnDanceCanvas; // Canvas to show when ready
     void Update()
     {
         if (AllTextIsGreen())
