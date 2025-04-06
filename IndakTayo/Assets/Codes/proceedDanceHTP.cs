@@ -5,7 +5,7 @@ using TMPro;
 
 public class proceedDanceHTP : MonoBehaviour
 {
-    public GameObject[] objectsToMonitor;
+    public GameObject[] objectsToMonitor; // List of UI text objects to monitor
     public BoxCollider TurnOnCollider;
     public GameObject TurnOnDanceCanvas;
     void Update()
