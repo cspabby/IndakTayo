@@ -37,7 +37,8 @@ public class PlayButton : MonoBehaviour
         videoPlayer.loopPointReached += OnVideoEnd;
         checkIcon.SetActive(false);
     }
-
+    
+    // Triggered when button is pressed
     private void OnTriggerEnter(Collider other)
     {
         // Toggle video playback state when the button is pressed
