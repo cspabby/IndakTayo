@@ -14,7 +14,8 @@ public class proceedDanceHTP : MonoBehaviour
         if (AllTextIsGreen())
         {
             TurnOnDanceCanvas.SetActive(true); // Show the canvas
-            TurnOnCollider.enabled = true;
+            TurnOnCollider.enabled = true; // Enable the collider to proceed
+
         }
     }
 
