@@ -13,6 +13,7 @@ public class Obstacles : MonoBehaviour
 
     private bool hasCollided = false; // Flag to prevent multiple collisions
 
+    // Trigger method for detecting collision with specific objects (Head, Right, or Left)
     private void OnTriggerEnter(Collider other)
     {
         if (!hasCollided && (other.gameObject == Head || other.gameObject == Right || other.gameObject == Left))
