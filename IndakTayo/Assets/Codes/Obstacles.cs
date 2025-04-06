@@ -11,7 +11,7 @@ public class Obstacles : MonoBehaviour
     public AudioSource ObstacleSounds; // Sound played upon collision with the obstacle
     public TotalPoints points;  // Reference to the points manager
 
-    private bool hasCollided = false;
+    private bool hasCollided = false; // Flag to prevent multiple collisions
 
     private void OnTriggerEnter(Collider other)
     {
