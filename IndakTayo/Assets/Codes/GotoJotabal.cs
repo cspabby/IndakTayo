@@ -41,7 +41,7 @@ public class GotoJotabal : MonoBehaviour
         {
             progress += 0.01f;
 
-            // Ensure progress stays within the range [0, 1]
+           
             progress = Mathf.Clamp01(progress);
 
             loadingSlider.value = progress;
