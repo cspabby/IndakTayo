@@ -100,7 +100,7 @@ public class PlayButton : MonoBehaviour
         videoPlayer.Stop();
         videoCanvas.gameObject.SetActive(false);
         buttonText.text = "START";
-        textComponent.color = Color.green;
+        textComponent.color = Color.green; // Change text color to green
         checkIcon.SetActive(true);
 
 
