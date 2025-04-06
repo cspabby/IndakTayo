@@ -48,7 +48,7 @@ public class PlayButton : MonoBehaviour
             StartCoroutine(DelayButtonPress());
         }
     }
-    
+
     // Prevent multiple presses by adding a delay
     private IEnumerator DelayButtonPress()
     {
@@ -56,7 +56,7 @@ public class PlayButton : MonoBehaviour
         yield return new WaitForSeconds(delayDuration);
         canPressButton = true;
     }
-
+    // Toggles video playback (start/stop) and updates button state
     private void ToggleVideoPlayback()
     {
         if (!isPlaying)
