@@ -9,7 +9,7 @@ public class HeadMovementIcon : MonoBehaviour
 
     private void Start() 
     {
-        
+        // By default, set the check icon to be visible and the uncheck icon to be hidden
         SetCheckIconVisible(false);
         SetUncheckIconVisible(true);
     }
