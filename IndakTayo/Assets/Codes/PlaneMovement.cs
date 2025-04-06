@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlaneMovement : MonoBehaviour
 {
-    public SpeedController speedController; // Reference to the SpeedController script
+    public SpeedController speedController; // Reference to the SpeedController script that handles movement speed
 
     void Update()
     {
