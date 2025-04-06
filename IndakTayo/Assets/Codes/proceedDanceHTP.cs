@@ -10,6 +10,7 @@ public class proceedDanceHTP : MonoBehaviour
     public GameObject TurnOnDanceCanvas; // Canvas to show when ready
     void Update()
     {
+         // Continuously check if all monitored texts are green
         if (AllTextIsGreen())
         {
             TurnOnDanceCanvas.SetActive(true);
