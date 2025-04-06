@@ -7,6 +7,7 @@ public class PlaneMovement : MonoBehaviour
     void Update()
     {
         // Move the object along the x-axis at the speed defined in SpeedController
+        // Time.deltaTime ensures smooth movement regardless of frame rate
         transform.position += new Vector3(speedController.speed * Time.deltaTime, 0, 0);
     }
 }
