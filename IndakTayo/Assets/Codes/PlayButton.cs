@@ -92,7 +92,7 @@ public class PlayButton : MonoBehaviour
         videoCanvas.gameObject.SetActive(false);
     }
 
-    // Method to handle the video end event
+    // Handles the video end event, updates button text and shows feedback
     private void OnVideoEnd(VideoPlayer vp)
     {
         // Video has finished playing, reset button text to "START"
