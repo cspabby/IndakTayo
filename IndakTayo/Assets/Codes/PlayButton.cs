@@ -19,6 +19,7 @@ public class PlayButton : MonoBehaviour
     bool isPlaying;  // Flags for video playback and button interaction
     bool canPressButton = true;  // Flags for video playback and button interaction
     public float delayDuration = 1f;  // Delay duration before button can be pressed again
+     // UI elements for additional feedback
     public TextMeshProUGUI textComponent;
     public GameObject checkIcon;
 
