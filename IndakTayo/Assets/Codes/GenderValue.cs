@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
+//GenderValue.cs
+
+
 public class GenderValue : MonoBehaviour
 {
     public TextMeshProUGUI GenderText; //assign the inspector
