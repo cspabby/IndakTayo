@@ -10,7 +10,7 @@ using UnityEngine.Video;
 public class PlayButton : MonoBehaviour
 {
     public GameObject button;  // Reference to the button GameObject
-    public UnityEvent onPress;
+    public UnityEvent onPress; // Events triggered on button press and release
     public UnityEvent onRelease;
     public TextMeshProUGUI buttonText;
     public MeshRenderer videoCanvas;
