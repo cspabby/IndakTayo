@@ -23,6 +23,7 @@ public class Obstacles : MonoBehaviour
             points.DecrementPoints(1);
              // Play collision sound
             ObstacleSounds.Play();
+             // Set flag to true to prevent further collisions
             hasCollided = true;
         }
     }
