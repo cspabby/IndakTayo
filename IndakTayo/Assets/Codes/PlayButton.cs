@@ -12,9 +12,9 @@ public class PlayButton : MonoBehaviour
     public GameObject button;  // Reference to the button GameObject
     public UnityEvent onPress; // Events triggered on button press and release
     public UnityEvent onRelease;
-    public TextMeshProUGUI buttonText;
-    public MeshRenderer videoCanvas;
-    public VideoPlayer videoPlayer;
+    public TextMeshProUGUI buttonText;  // UI components for the button and video display
+    public MeshRenderer videoCanvas;  // UI components for the button and video display
+    public VideoPlayer videoPlayer;  // UI components for the button and video display
     AudioSource sound;
     bool isPlaying;
     bool canPressButton = true;
