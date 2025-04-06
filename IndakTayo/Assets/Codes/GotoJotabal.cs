@@ -57,7 +57,7 @@ public class GotoJotabal : MonoBehaviour
             yield return new WaitForSeconds(0.01f);
         }
 
-        // if set to false not active
+        // Allow the scene to be activated
         asyncLoad.allowSceneActivation = true;
 
         // Wait for the scene to finish loading
