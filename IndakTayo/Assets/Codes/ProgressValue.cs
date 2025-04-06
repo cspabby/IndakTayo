@@ -16,7 +16,7 @@ public class ProgressValue : MonoBehaviour
 
     void Update()
     {
-        // Update the TextMeshPro text with the taskPercentage value
+        // Update the TextMeshPro text with the task percentage value as an integer
         progress.text = Mathf.FloorToInt(task.TaskPercentageValue) + "/100";
     }
 }
