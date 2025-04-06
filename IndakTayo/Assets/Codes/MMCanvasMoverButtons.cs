@@ -12,7 +12,7 @@ public class MMCanvasMoverButtons : MonoBehaviour
     public int currentIndex = 0; // Index of the currently active object
     private int previousIndex = 0; // Track the previously active index to turn it off later
     public GameObject incrementButton; // Button used to increment the index (move right)
-    public GameObject decrementButton;
+    public GameObject decrementButton; // Button used to decrement the index (move left)
 
     // Start is called before the first frame update
     void Start()
