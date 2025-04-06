@@ -71,7 +71,7 @@ public class PlayButton : MonoBehaviour
         {
             sound.Play();
             onRelease.Invoke(); // Trigger the onRelease event
-            StopCanvasVideo(); // Stop the video
+            StopCanvasVideo(); // Stop video playback
             isPlaying = false;
             buttonText.text = "START";
         }
