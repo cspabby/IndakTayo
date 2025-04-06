@@ -5,7 +5,8 @@ using TMPro;
 public class ProgressValue : MonoBehaviour
 {
     public TextMeshProUGUI progress; // Text element to display progress value
-    public TaskPercentage task;
+    public TaskPercentage task; // Reference to the TaskPercentage script
+
     // Start is called before the first frame update
     void Start()
     {
