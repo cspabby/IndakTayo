@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Obstacles : MonoBehaviour
 {
+    // References to the player's head, right, and left parts
     public GameObject Head;
     public GameObject Right;
     public GameObject Left;
