@@ -85,7 +85,7 @@ public class PlayButton : MonoBehaviour
 
        //1 Destroy(HintDestroy);
     }
-
+    // Stops the video playback and hides the video canvas
     public void StopCanvasVideo()
     {
         videoPlayer.Stop();
