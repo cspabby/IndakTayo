@@ -13,7 +13,7 @@ public class proceedDanceHTP : MonoBehaviour
          // Continuously check if all monitored texts are green
         if (AllTextIsGreen())
         {
-            TurnOnDanceCanvas.SetActive(true);
+            TurnOnDanceCanvas.SetActive(true); // Show the canvas
             TurnOnCollider.enabled = true;
         }
     }
