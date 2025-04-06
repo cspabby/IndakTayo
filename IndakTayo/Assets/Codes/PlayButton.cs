@@ -27,6 +27,7 @@ public class PlayButton : MonoBehaviour
 
     void Start()
     {
+        // Initialize and set the video canvas to inactive
         videoCanvas.gameObject.SetActive(false);
         sound = GetComponent<AudioSource>();
         isPlaying = false;
