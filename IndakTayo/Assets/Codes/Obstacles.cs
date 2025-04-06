@@ -21,6 +21,7 @@ public class Obstacles : MonoBehaviour
         {
             // Decrease points by 1 upon collision
             points.DecrementPoints(1);
+             // Play collision sound
             ObstacleSounds.Play();
             hasCollided = true;
         }
