@@ -26,7 +26,7 @@ public class slowDownEffect : MonoBehaviour
         // Slow down speed and lower pitch
         speedController.speed = 1f; //speed is set to avreage/normal
       MusicHardEffect.musicNormal.pitch = 1f; //music plays average/normal speed
-        PowerUpSound.Play();
+        PowerUpSound.Play(); //Slow speed clock plays when hit
 
         // Wait for 10 seconds
         yield return new WaitForSeconds(10f);
