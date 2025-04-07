@@ -24,7 +24,7 @@ public class slowDownEffect : MonoBehaviour
     private IEnumerator SlowDownTemporarily()
     {
         // Slow down speed and lower pitch
-        speedController.speed = 1f;
+        speedController.speed = 1f; //speed is set to avreage/normal
       MusicHardEffect.musicNormal.pitch = 1f;
         PowerUpSound.Play();
 
