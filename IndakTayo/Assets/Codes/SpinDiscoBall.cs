@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SpinDiscoBall : MonoBehaviour
 {
-    public float rotationSpeed = 50f; // Adjust the speed as needed
+    public float rotationSpeed = 50f; //Adjust the speed as needed
 
     void Update()
     {
