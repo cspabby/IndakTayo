@@ -14,7 +14,7 @@ public class slowDownEffect : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (!hasCollided && (other.gameObject == Right || other.gameObject == Left)) //either right hand
+        if (!hasCollided && (other.gameObject == Right || other.gameObject == Left)) //either right hand left hand
         {
             StartCoroutine(SlowDownTemporarily());
             hasCollided = true;
