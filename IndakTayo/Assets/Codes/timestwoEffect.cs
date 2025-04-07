@@ -28,7 +28,7 @@ public class timestwoEffect : MonoBehaviour
         totalPoints.pointsMultiplier = 2; //1 wall is equal to 1 point x 2 = 2 points
         PowerUpSound.Play();
         // Wait for 10 seconds
-        yield return new WaitForSeconds(10f);
+        yield return new WaitForSeconds(10f); //duration of power up coin
 
 
         // Reset points multiplier
