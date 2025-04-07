@@ -26,7 +26,7 @@ public class ShowResults : MonoBehaviour
             {
                 Congratulations.Play(); //Play the congratulaions audio
             }
-        stopWatch.StopEverything();
-        ResultsCanvas.SetActive(true);         // Show the ResultsCanvas
+        stopWatch.StopEverything(); //for stopwatch
+        ResultsCanvas.SetActive(true);  // Show the Results Canvas
     }
 }
