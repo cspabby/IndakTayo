@@ -32,6 +32,6 @@ public class timestwoEffect : MonoBehaviour
 
 
         // Reset points multiplier
-        totalPoints.pointsMultiplier = 1;
+        totalPoints.pointsMultiplier = 1; //reset to 1 point per wall
     }
 }
