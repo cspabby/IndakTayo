@@ -8,7 +8,7 @@ public class ShowDuckHTP : MonoBehaviour
     public StepShowHTP ShowDancePass;
 
 
-    //script for duck
+    //script for duck HTP
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player")) //player indicator
