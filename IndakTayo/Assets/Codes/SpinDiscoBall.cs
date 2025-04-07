@@ -9,6 +9,6 @@ public class SpinDiscoBall : MonoBehaviour
     void Update()
     {
         //Rotate the disco ball on its Y-axis
-        transform.Rotate(Vector3.up, rotationSpeed * Time.deltaTime);
+        transform.Rotate(Vector3.up, rotationSpeed * Time.deltaTime); //computation for rotation speed
     }
 }
