@@ -24,7 +24,7 @@ public class ShowResults : MonoBehaviour
         yield return new WaitForSeconds(2f);  // Wait for 2 seconds code
         if (!Congratulations.isPlaying) // Check if the sound isn't already playing
             {
-                Congratulations.Play();
+                Congratulations.Play(); //Play the congratulaions audio
             }
         stopWatch.StopEverything();
         ResultsCanvas.SetActive(true);         // Show the ResultsCanvas
