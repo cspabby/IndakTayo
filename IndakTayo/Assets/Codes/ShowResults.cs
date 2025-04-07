@@ -21,7 +21,7 @@ public class ShowResults : MonoBehaviour
 
     IEnumerator ShowResultsWithDelay()
     {
-        yield return new WaitForSeconds(2f);  // Wait for 2 seconds
+        yield return new WaitForSeconds(2f);  // Wait for 2 seconds code
         if (!Congratulations.isPlaying) // Check if the sound isn't already playing
             {
                 Congratulations.Play();
