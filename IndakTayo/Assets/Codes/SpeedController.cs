@@ -7,6 +7,6 @@ public class SpeedController : MonoBehaviour
     // Getter for the speed variable
     public float Speed
     {
-        get { return speed; }
+        get { return speed; } //getter for return speed
     }
 }
