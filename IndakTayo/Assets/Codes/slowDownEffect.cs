@@ -29,7 +29,7 @@ public class slowDownEffect : MonoBehaviour
         PowerUpSound.Play(); //Slow speed clock plays when hit
 
         // Wait for 10 seconds
-        yield return new WaitForSeconds(10f);
+        yield return new WaitForSeconds(10f); //duration or effectivity of slow speed clock
 
         // Reset speed and pitch back to normal
         speedController.speed = 1.5f;
