@@ -20,7 +20,7 @@ public class SoundsOverAllScript : MonoBehaviour
         }
         else
         {
-            Debug.LogError("Volume Slider is not assigned!");
+            Debug.LogError("Volume Slider is not assigned!"); //Debug if volume slider is not assigned
         }
     }
 
