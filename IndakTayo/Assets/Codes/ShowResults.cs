@@ -15,7 +15,7 @@ public class ShowResults : MonoBehaviour
     {
         if (other.gameObject == MaleWall || other.gameObject == FemaleWall) //Male and Female
         {
-            StartCoroutine(ShowResultsWithDelay());
+            StartCoroutine(ShowResultsWithDelay()); //Coroutine script line
         }
     }
 
