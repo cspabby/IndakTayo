@@ -16,7 +16,7 @@ public class timestwoEffect : MonoBehaviour
         if (!hasCollided && (other.gameObject == Right || other.gameObject == Left))
         {
             StartCoroutine(DoublePoints());
-            hasCollided = true;
+            hasCollided = true; // set to true
         }
     }
 
@@ -32,6 +32,6 @@ public class timestwoEffect : MonoBehaviour
 
 
         // Reset points multiplier
-        totalPoints.pointsMultiplier = 1; //reset to 1 point per wall
+        totalPoints.pointsMultiplier = 1; //reset to 1 point per wall 
     }
 }
