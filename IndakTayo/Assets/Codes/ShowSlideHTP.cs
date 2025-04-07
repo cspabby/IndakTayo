@@ -14,7 +14,7 @@ public class ShowSlideHTP : MonoBehaviour
         if (other.CompareTag("Player")) //Player compare tag
         {
 
-            ShowDancePass.ShowDanceSlide(other); //If dance pass
+            ShowDancePass.ShowDanceSlide(other); 
 
         }
     }
