@@ -32,7 +32,7 @@ public class slowDownEffect : MonoBehaviour
         yield return new WaitForSeconds(10f); //duration or effectivity of slow speed clock
 
         // Reset speed and pitch back to normal
-        speedController.speed = 1.5f;
+        speedController.speed = 1.5f; //after 10 seconds the hard mode is back
         // ObstacleSounds.pitch = 1.0f; // Reset pitch to default
         MusicHardEffect.musicNormal.pitch = 1.5f;
     }
