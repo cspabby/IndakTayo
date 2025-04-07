@@ -13,7 +13,7 @@ public class ShowResults : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject == MaleWall || other.gameObject == FemaleWall)
+        if (other.gameObject == MaleWall || other.gameObject == FemaleWall) //Male and Female
         {
             StartCoroutine(ShowResultsWithDelay());
         }
