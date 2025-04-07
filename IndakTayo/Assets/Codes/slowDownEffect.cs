@@ -34,6 +34,6 @@ public class slowDownEffect : MonoBehaviour
         // Reset speed and pitch back to normal
         speedController.speed = 1.5f; //after 10 seconds the hard mode is back
         // ObstacleSounds.pitch = 1.0f; // Reset pitch to default
-        MusicHardEffect.musicNormal.pitch = 1.5f;
+        MusicHardEffect.musicNormal.pitch = 1.5f; //music shall went back to hard mode (1.5) after 10 seconds of slow speed clock
     }
 }
