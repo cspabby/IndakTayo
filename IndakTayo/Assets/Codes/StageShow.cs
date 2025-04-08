@@ -37,7 +37,7 @@ public class StageShow : MonoBehaviour
             }
             else
             {
-                Debug.LogWarning("VillageScreen is not assigned in the Inspector!");
+                Debug.LogWarning("VillageScreen is not assigned in the Inspector!"); //log warning for village
             }
 
         }
