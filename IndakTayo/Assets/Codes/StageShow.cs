@@ -25,7 +25,7 @@ public class StageShow : MonoBehaviour
             ConcertStage.SetActive(true);
             ConcertSkybox.SetActive(true);
         }
-        else if (stage == "Village")
+        else if (stage == "Village") //Village
         {
             VillageStage.SetActive(true);
             VillageSkybox.SetActive(true);
