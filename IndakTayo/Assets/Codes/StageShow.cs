@@ -41,7 +41,7 @@ public class StageShow : MonoBehaviour
             }
 
         }
-        else if (stage == "Ballroom")
+        else if (stage == "Ballroom") //Ballroom
         {
             BallroomStage.SetActive(true);
             BallroomSkybox.SetActive(true);
