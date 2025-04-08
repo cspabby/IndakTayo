@@ -16,7 +16,7 @@ public class StartDance : MonoBehaviour
     {
         return GenderText;
     }
-    // Start is called before the first frame update
+    // Start is called before the first frame updatee
     public void Male()
     {
         GenderText = "Male";
