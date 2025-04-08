@@ -33,7 +33,7 @@ public class StageShow : MonoBehaviour
             {
                 screen.transform.position = VillageScreen.transform.position; // Copy Position
                 screen.transform.rotation = VillageScreen.transform.rotation; // Copy Rotation
-                screen.transform.localScale = VillageScreen.transform.localScale; // Copy scale
+                screen.transform.localScale = VillageScreen.transform.localScale; // Copy Scale
             }
             else
             {
