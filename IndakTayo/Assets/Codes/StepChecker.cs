@@ -35,7 +35,7 @@ public class StepChecker : MonoBehaviour
         // If all values are true and hasTriggered is false, execute the actions
         if (allTrue && !hasTriggered)
         {
-            Debug.Log("NICE");
+            Debug.Log("NICE"); //nice log
             checker.SetCheckIconVisible(true);
             checker.SetUncheckIconVisible(false);
             points.IncrementPoints(1);
