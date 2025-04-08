@@ -31,7 +31,7 @@ public class StageShow : MonoBehaviour
             VillageSkybox.SetActive(true);
             if (VillageScreen != null)
             {
-                screen.transform.position = VillageScreen.transform.position; // Copy position
+                screen.transform.position = VillageScreen.transform.position; // Copy Position
                 screen.transform.rotation = VillageScreen.transform.rotation; // Copy rotation
                 screen.transform.localScale = VillageScreen.transform.localScale; // Copy scale
             }
