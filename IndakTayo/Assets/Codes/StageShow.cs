@@ -20,7 +20,7 @@ public class StageShow : MonoBehaviour
     {
         string stage = PlayerPrefs.GetString("stage");
 
-        if (stage == "Concert")
+        if (stage == "Concert") //Concert
         {
             ConcertStage.SetActive(true);
             ConcertSkybox.SetActive(true);
