@@ -53,7 +53,7 @@ public class StageShow : MonoBehaviour
             }
             else
             {
-                Debug.LogWarning("BallroomScreen is not assigned in the Inspector!"); //
+                Debug.LogWarning("BallroomScreen is not assigned in the Inspector!"); //log warning for ballroom
             }
         }
     }
