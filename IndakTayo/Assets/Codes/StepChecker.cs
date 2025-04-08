@@ -53,7 +53,7 @@ public class StepChecker : MonoBehaviour
         {
             if (Array.Exists(boolArray, element => element == false))
             {
-                counter.Increment();
+                counter.Increment(); //error counter for 10 consecutive wrongs
                 indicator.ShowWrong();
             }
             else
