@@ -28,11 +28,11 @@ public class DanceProgress : MonoBehaviour
                 // Use 'StartDance.GetGender()' to call the static method
                 if (StartDance.GetGender() == "Male")
                 {
-                    percent.IncrementTaskPercentage(1.69f);
+                    percent.IncrementTaskPercentage(1.4085f);
                 }
                 else if (StartDance.GetGender() == "Female")
                 {
-                    percent.IncrementTaskPercentage(1);
+                    percent.IncrementTaskPercentage(1.4085f);
                 }
 
             }
@@ -42,11 +42,11 @@ public class DanceProgress : MonoBehaviour
                 // Use 'StartDance.GetGender()' to call the static method
                 if (StartDance.GetGender() == "Male")
                 {
-                    percent.IncrementTaskPercentage(1.69f);
+                    percent.IncrementTaskPercentage(1.4085f);
                 }
                 else if (StartDance.GetGender() == "Female")
                 {
-                    percent.IncrementTaskPercentage(1);
+                    percent.IncrementTaskPercentage(1.4085f);
                 }
 
             }
