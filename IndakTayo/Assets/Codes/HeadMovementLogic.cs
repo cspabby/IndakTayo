@@ -6,13 +6,7 @@ using UnityEngine;
 public class HeadMovementLogic : MonoBehaviour
 {
     public GameObject cameraHead;
-    public TextMeshProUGUI textComponent; // LOOK UP
-    public TextMeshProUGUI textComponent2;  // LOOK DOWN
-    public TextMeshProUGUI textComponent3; //LOOK RIGHT
-    public TextMeshProUGUI textComponent4;  //LOOK LEFT
-    public TextMeshProUGUI textComponent5;    //TILT TO THE LEFT
-    public TextMeshProUGUI textComponent6;   //TILT TO THE RIGHT
-
+ 
     // icons
     public GameObject lookupicon;
     public GameObject lookdownicon;
@@ -46,9 +40,8 @@ public class HeadMovementLogic : MonoBehaviour
         // LOOK UP
         if (xRotation >= 300f && xRotation <= 320f)
         {
-            if (textComponent != null)
+            if (lookupicon != null)
             {
-                textComponent.color = Color.green;
                 lookupicon.SetActive(true);
             }
         }
@@ -56,9 +49,8 @@ public class HeadMovementLogic : MonoBehaviour
         // LOOK DOWN
         else if (xRotation >= 60f && xRotation <= 75f)
         {
-            if (textComponent2 != null)
+            if (lookdownicon != null)
             {
-                textComponent2.color = Color.green;
                 lookdownicon.SetActive(true);
             }
         }
@@ -67,9 +59,8 @@ public class HeadMovementLogic : MonoBehaviour
         //LOOK RIGHT
         else if (yRotation >= 100f && yRotation <= 110f)
         {
-            if (textComponent3 != null)
+            if (lookrighticon != null)
             {
-                textComponent3.color = Color.green;
                 lookrighticon.SetActive(true);
             }
         }
@@ -77,9 +68,8 @@ public class HeadMovementLogic : MonoBehaviour
         //LOOK LEFT
         else if (yRotation >= 250f && yRotation <= 260f)
         {
-            if (textComponent4!= null)
+            if (looklefticon!= null)
             {
-                textComponent4 .color = Color.green;
                 looklefticon.SetActive(true);
             }
         }
@@ -88,9 +78,8 @@ public class HeadMovementLogic : MonoBehaviour
         //TILT TO THE LEFT
         else if (zRotation >= 70f && zRotation <= 80f)
         {
-            if (textComponent5 != null)
+            if (tiltlefticon != null)
             {
-                textComponent5.color = Color.green;
                 tiltlefticon.SetActive(true);
             }
         }
@@ -98,9 +87,8 @@ public class HeadMovementLogic : MonoBehaviour
         //TILT TO THE RIGHT
         else if (zRotation >= 270f && zRotation <= 300f)
 
-            if (textComponent6 != null)
+            if (tiltrighticon != null)
             {
-                textComponent6.color = Color.green;
                 tiltrighticon.SetActive(true);
             }
     }

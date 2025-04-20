@@ -20,7 +20,6 @@ public class PlayButton : MonoBehaviour
     bool canPressButton = true;  // Flags for video playback and button interaction
     public float delayDuration = 1f;  // Delay duration before button can be pressed again
      // UI elements for additional feedback
-    public TextMeshProUGUI textComponent;
     public GameObject checkIcon;
 
     // public GameObject HintDestroy;
@@ -100,7 +99,6 @@ public class PlayButton : MonoBehaviour
         videoPlayer.Stop();
         videoCanvas.gameObject.SetActive(false);
         buttonText.text = "START";
-        textComponent.color = Color.green; // Change text color to green
         checkIcon.SetActive(true); // Show check icon as feedback
 
 

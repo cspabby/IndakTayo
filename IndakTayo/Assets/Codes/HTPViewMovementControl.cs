@@ -6,8 +6,7 @@ public class HTPViewMovementControl : MonoBehaviour
 {
     public GameObject MovementCanvas;
     public GameObject GamePlayCanvas;
-    public TextMeshProUGUI textComponent1; // Linked to Movement
-    public TextMeshProUGUI textComponent2; // Linked to Gameplay
+
     public GameObject checkGameplay;
     public GameObject checkMovement;
 
@@ -21,16 +20,16 @@ public class HTPViewMovementControl : MonoBehaviour
     {
 
         // Check MovementCanvas independently
-        if (MovementCanvas != null && MovementCanvas.activeSelf && textComponent1.color != null)
+        if (MovementCanvas != null && MovementCanvas.activeSelf)
         {
-            textComponent1.color = Color.green;
+
             checkMovement.SetActive(true);
         }
 
         // Check GamePlayCanvas independently
-        if (GamePlayCanvas != null && GamePlayCanvas.activeSelf && textComponent2.color != null)
+        if (GamePlayCanvas != null && GamePlayCanvas.activeSelf)
         {
-            textComponent2.color = Color.green;
+
             checkGameplay.SetActive(true);
         }
     }
