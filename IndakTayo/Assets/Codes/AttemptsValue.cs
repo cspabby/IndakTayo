@@ -22,25 +22,25 @@ public class AttemptsValue : MonoBehaviour
 
         if(attemptsToPass == 3)
         {
-            first.SetActive(true);
-            second.SetActive(true);
-            third.SetActive(true);
-        } else if (attemptsToPass == 2)
-        {
-            first.SetActive(true);
-            second.SetActive(true);
-            third.SetActive(false);
-        } else if (attemptsToPass == 1)
-        {
-            first.SetActive(true);
-            second.SetActive(false);
-            third.SetActive(false);
-        }
-        else if (attemptsToPass == 0)
-        {
             first.SetActive(false);
             second.SetActive(false);
             third.SetActive(false);
+        } else if (attemptsToPass == 2)
+        {
+            first.SetActive(false);
+            second.SetActive(false);
+            third.SetActive(true);
+        } else if (attemptsToPass == 1)
+        {
+            first.SetActive(false);
+            second.SetActive(true);
+            third.SetActive(true);
+        }
+        else if (attemptsToPass == 0)
+        {
+            first.SetActive(true);
+            second.SetActive(true);
+            third.SetActive(true);
         }
 
         attempts.text = attemptsToPass.ToString();
