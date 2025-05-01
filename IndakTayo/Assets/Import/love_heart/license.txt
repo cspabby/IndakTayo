@@ -1,0 +1,11 @@
+Model Information:
+* title:	love heart
+* source:	https://sketchfab.com/3d-models/love-heart-dde9d369b1b44e96b4f186d346b28573
+* author:	younes.nuraddini (https://sketchfab.com/younes.nuraddini)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "love heart" (https://sketchfab.com/3d-models/love-heart-dde9d369b1b44e96b4f186d346b28573) by younes.nuraddini (https://sketchfab.com/younes.nuraddini) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

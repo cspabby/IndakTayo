@@ -6,7 +6,7 @@ using TMPro;
 public class AttemptsValue : MonoBehaviour
 {
     public TextMeshProUGUI attempts;
-    public GameObject first, second, third;
+    public GameObject first, second, third, firstHEART, secondHEART, thirdHEART;
 
     void Update()
     {
@@ -22,22 +22,38 @@ public class AttemptsValue : MonoBehaviour
 
         if(attemptsToPass == 3)
         {
+            firstHEART.SetActive(false);
+            secondHEART.SetActive(false);
+            thirdHEART.SetActive(false);
+
             first.SetActive(false);
             second.SetActive(false);
             third.SetActive(false);
         } else if (attemptsToPass == 2)
         {
+            firstHEART.SetActive(false);
+            secondHEART.SetActive(false);
+            thirdHEART.SetActive(true);
+
             first.SetActive(false);
             second.SetActive(false);
             third.SetActive(true);
         } else if (attemptsToPass == 1)
         {
+            firstHEART.SetActive(false);
+            secondHEART.SetActive(true);
+            thirdHEART.SetActive(true);
+
             first.SetActive(false);
             second.SetActive(true);
             third.SetActive(true);
         }
         else if (attemptsToPass == 0)
         {
+            firstHEART.SetActive(true);
+            secondHEART.SetActive(true);
+            thirdHEART.SetActive(true);
+
             first.SetActive(true);
             second.SetActive(true);
             third.SetActive(true);
