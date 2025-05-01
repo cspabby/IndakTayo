@@ -23,33 +23,35 @@ public class DanceProgress : MonoBehaviour
         {
 
             Debug.Log("MALI");
-            if (music == "Jotabal")
-            {
-                // Use 'StartDance.GetGender()' to call the static method
-                if (StartDance.GetGender() == "Male")
-                {
-                    percent.IncrementTaskPercentage(1.4085f);
-                }
-                else if (StartDance.GetGender() == "Female")
-                {
-                    percent.IncrementTaskPercentage(1.4085f);
-                }
+            //if (music == "Jotabal")
+            //{
+            //    // Use 'StartDance.GetGender()' to call the static method
+            //    if (StartDance.GetGender() == "Male")
+            //    {
+            //        percent.IncrementTaskPercentage(1.4085f);
+            //    }
+            //    else if (StartDance.GetGender() == "Female")
+            //    {
+            //        percent.IncrementTaskPercentage(1.4085f);
+            //    }
 
-            }
+            //}
 
-            if (music == "Polkabal")
-            {
-                // Use 'StartDance.GetGender()' to call the static method
-                if (StartDance.GetGender() == "Male")
-                {
-                    percent.IncrementTaskPercentage(1.4085f);
-                }
-                else if (StartDance.GetGender() == "Female")
-                {
-                    percent.IncrementTaskPercentage(1.4085f);
-                }
+            //if (music == "Polkabal")
+            //{
+            //    // Use 'StartDance.GetGender()' to call the static method
+            //    if (StartDance.GetGender() == "Male")
+            //    {
+            //        percent.IncrementTaskPercentage(1.4085f);
+            //    }
+            //    else if (StartDance.GetGender() == "Female")
+            //    {
+            //        percent.IncrementTaskPercentage(1.4085f);
+            //    }
 
-            }
+            //}
+            percent.IncrementTaskPercentage(1.429f);
+
 
             hasCollided = true;
         }

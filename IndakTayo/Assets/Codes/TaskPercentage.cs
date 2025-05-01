@@ -1,28 +1,45 @@
 using UnityEngine;
-using TMPro;
+using UnityEngine.UI;
+using TMPro; // TextMeshPro namespace
 
 public class TaskPercentage : MonoBehaviour
 {
-    public TextMeshProUGUI textMeshPro;
-    private float taskPercentage = 0;
+    [SerializeField] private Slider progressSlider; // Assign in Inspector
+    [SerializeField] private TMP_Text progressText; // Assign in Inspector
 
-    void Update()
-    {
-        // Display the taskPercentage as a whole number (integer)
-        textMeshPro.text = Mathf.FloorToInt(taskPercentage) + "%";  // Floors the value to nearest lower integer
-    }
+    private float taskPercentage = 0f;
 
-    public float TaskPercentageValue
+    public float TaskPercentageValue => taskPercentage;
+
+    private void Start()
     {
-        get { return taskPercentage; }
+        taskPercentage = 0f;
+        UpdateUI();
     }
 
     public void IncrementTaskPercentage(float incrementValue)
     {
         taskPercentage += incrementValue;
-        if (taskPercentage >= 100)
+        taskPercentage = Mathf.Clamp(taskPercentage, 0f, 100f); // Clamp to 0–100%
+        UpdateUI();
+    }
+
+    public void ResetTaskPercentage()
+    {
+        taskPercentage = 0f;
+        UpdateUI();
+    }
+
+    private void UpdateUI()
+    {
+        if (progressSlider != null)
         {
-            taskPercentage = 100;
+            progressSlider.value = taskPercentage;
+        }
+
+        if (progressText != null)
+        {
+            progressText.text = $"{taskPercentage:F0}%";
         }
     }
 }

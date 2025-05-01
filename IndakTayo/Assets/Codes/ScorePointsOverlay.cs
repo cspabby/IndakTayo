@@ -42,7 +42,9 @@ public class ScorePointsOverlay : MonoBehaviour
 
         if (percentageText != null && taskPercentageScript != null)
         {
-            percentageText.text = $"Progress: {taskPercentageScript.TaskPercentageValue}%";
+            int flooredPercentage = Mathf.FloorToInt(taskPercentageScript.TaskPercentageValue);
+            percentageText.text = $"Progress: {flooredPercentage}%";
         }
+
     }
 }
